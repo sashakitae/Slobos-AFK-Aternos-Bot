@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Ha1msterMacePVP.aternos.me:60164",
+    "ip": "Ha1msterMacePVP.aternos.me",
     "port": 60164,
     "version": "1.21.11",
     "try-creative": false
